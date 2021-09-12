@@ -4,9 +4,9 @@ A simple landing page with information on how to effectively learn new. The proj
 
 ## Run project
 
-Clone repo and open index.html
+Clone repo and open index.html in browser
 
-## Features
+## Future improvements
 
 * add other fonts
 * check the code for cross-browser compatibility and add all vendor prefixes
